@@ -11,7 +11,7 @@ never stopping the learning journey.
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with React & Next js
-- ⚡ Fun fact : I use GPT for my correction my code :D
+- ⚡ Fun fact : I use GPT for correction my code :D
 - 🔭 I am currently looking for job opportunities.
 - 🌱 I’m currently learning React & Next Js
 
