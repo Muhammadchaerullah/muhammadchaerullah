@@ -4,7 +4,8 @@ never stopping the learning journey.
 
 ![Header](./github-header-image.png)
 
-**Muhammadchaerullah/muhammadchaerullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Im Frontend Developers** who loves creating accessible and visually accurate user interfaces by combining design and solid code. Previously, I worked as an Staff Logistic Routing and Sales Assistant but **by the grace of Allah SWT**, I was able to shift my career to web development—something I’ve been passionate about since university.
 
 Here are some ideas to get you started:
 
