@@ -4,8 +4,9 @@ never stopping the learning journey.
 
 ![Header](./github-header-image.png)
 
-
-**Im Frontend Developers** who loves creating accessible and visually accurate user interfaces by combining design and solid code. Previously, I worked as an Staff Logistic Routing and Sales Assistant but **by the grace of Allah SWT**, I was able to shift my career to web development—something I’ve been passionate about since university.
+<p align=justify>
+<strong>Im Frontend Developers</strong> who loves creating accessible and visually accurate user interfaces by combining design and solid code. Previously, I worked as an Staff Logistic Routing and Sales Assistant but <strong>by the grace of Allah SWT</strong>, I was able to shift my career to web development—something I’ve been passionate about since university.
+</p>
 
 Here are some ideas to get you started:
 
