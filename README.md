@@ -2,6 +2,9 @@
 Stepping out of the comfort zone
 never stopping the learning journey.
 
+## My Portfolio
+[![My Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://muhammad-chaerullah-portfolio.vercel.app)
+
 ![Header](./github-header-image.png)
 
 **Muhammadchaerullah/muhammadchaerullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
