@@ -2,9 +2,6 @@
 Stepping out of the comfort zone
 never stopping the learning journey.
 
-## My Portfolio
-[![My Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://muhammad-chaerullah-portfolio.vercel.app)
-
 ![Header](./github-header-image.png)
 
 **Muhammadchaerullah/muhammadchaerullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +20,4 @@ Here are some ideas to get you started:
 
 #### How to reach me 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/mchaerullah) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/muhammad-chaerullah-752654191/overlay/background-image/)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/mchaerullah) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/muhammad-chaerullah-752654191/overlay/background-image/) [![My Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://muhammad-chaerullah-portfolio.vercel.app)
