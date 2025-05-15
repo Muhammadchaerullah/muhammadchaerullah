@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 #### How to reach me 
-![https://www.instagram.com/mchaerullah/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-chaerullah-752654191/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/mchaerullah) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/muhammad-chaerullah-752654191/overlay/background-image/)
